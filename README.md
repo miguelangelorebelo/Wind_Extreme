@@ -1,8 +1,5 @@
 ---
 title: "Wind Speed Extreme Value Estimation"
-output: 
-  html_document:
-    keep_md: true
 ---
 
 
